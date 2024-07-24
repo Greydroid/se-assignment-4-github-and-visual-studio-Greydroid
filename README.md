@@ -223,4 +223,10 @@ Using Debugging Tools:
 Set Breakpoints: Click in the margin next to the code line.
 Start Debugging: Press F5 or click the “Start Debugging” button.
 Inspect Variables: Hover over variables to see their current values.
-Step Through Code: Use F10
+Step Through Code: Use F10 (step over), F11 (step into), and Shift+F
+
+
+
+
+
+
